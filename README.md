@@ -1,6 +1,11 @@
 # Python Auto Updater
 This script auto update your packets
 
+## Usage
+```bash
+python3 UpdatePython.py
+```
+
 ## AUTHOR
 Leo Baratta 
 
