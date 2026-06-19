@@ -4,6 +4,7 @@ This script auto update your packets
 ## Usage
 ```bash
 python3 UpdatePython.py
+py UpdatePython.py
 ```
 
 ## AUTHOR
