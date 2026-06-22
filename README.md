@@ -1,14 +1,14 @@
-# Python Auto Updater
+# <ins>Python Auto Updater</ins>
 This script auto update your packets
 
-## Usage
+## <ins>Usage</ins>
 ```bash
 - python3 UpdatePython.py
 - py UpdatePython.py
 ```
 
-## AUTHOR
+## <ins>AUTHOR</ins>
 Leo Baratta 
 
-## License
+## <ins>License</ins>
 License MIT
